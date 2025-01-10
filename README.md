@@ -10,4 +10,4 @@ Car Details: Detailed information about each car, including images, specificatio
 Technologies Used
 Frontend: HTML, CSS, Bootstrap
 
-Navigate to https://sourav-gittech.github.io/Car-villa_web/ in your browser.
+Navigate to https://sourav-gittech.github.io/Car-villa_web in your browser.
