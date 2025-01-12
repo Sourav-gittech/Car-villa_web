@@ -1,12 +1,12 @@
 // hide navbar after clicking
-let navlink = document.querySelectorAll('.nav-link');
-let navbarCollapse = document.querySelector('.navbar-toggler');
+// let navlink = document.querySelectorAll('.nav-link');
+// let navbarCollapse = document.querySelector('.navbar-toggler');
 
-navlink.forEach(function (click) {
-    click.addEventListener("click", () => {
-        navbarCollapse.click();
-    });
-});
+// navlink.forEach(function (click) {
+//     click.addEventListener("click", () => {
+//         navbarCollapse.click();
+//     });
+// });
 
 
 // show or hide scroll button
